@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "僕たちの行方",
+  "base_artist": "Hitomi Takahashi",
+  "createdAt": "2026-01-03T12:20:15.594068Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "僕たちの行方",
+      "artist": "Masaaki Endoh",
+      "has_synced": false,
+      "path": "select/01_僕たちの行方_Masaaki_Endoh.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bokutachi no Yukue [僕たちの行方]",
+      "artist": "Masaaki Endoh",
+      "has_synced": false,
+      "path": "select/02_Bokutachi_no_Yukue_[僕たちの行方]_Masaaki_Endoh.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bokutachi no Yukue [僕たちの行方]",
+      "artist": "Hitomi Takahashi",
+      "has_synced": true,
+      "path": "select/03_Bokutachi_no_Yukue_[僕たちの行方]_Hitomi_Takahashi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "僕たちの行方",
+      "artist": "Hitomi takahashi",
+      "has_synced": true,
+      "path": "select/04_僕たちの行方_Hitomi_takahashi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "僕たちの行方",
+      "artist": "Takahashi, Hitomi",
+      "has_synced": true,
+      "path": "select/05_僕たちの行方_Takahashi,_Hitomi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "僕たちの行方",
+      "artist": "CooRie",
+      "has_synced": false,
+      "path": "select/06_僕たちの行方_CooRie.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "僕たちの行方",
+      "artist": "高橋瞳",
+      "has_synced": false,
+      "path": "select/07_僕たちの行方_高橋瞳.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "僕たちの行方",
+      "artist": "高橋 瞳",
+      "has_synced": false,
+      "path": "select/08_僕たちの行方_高橋_瞳.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "僕たちの行方 -Instrumental-",
+      "artist": "高橋瞳",
+      "has_synced": false,
+      "path": "select/09_僕たちの行方_-Instrumental-_高橋瞳.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "僕たちの行方",
+      "artist": "Hitomi Takahashi",
+      "has_synced": false,
+      "path": "select/10_僕たちの行方_Hitomi_Takahashi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕たちの行方",
+      "artist": "高橋 瞳",
+      "has_synced": false,
+      "path": "select/pl_01_僕たちの行方_高橋_瞳.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "僕たちの行方",
+      "artist": "高橋 瞳",
+      "has_synced": false,
+      "path": "select/pl_02_僕たちの行方_高橋_瞳.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "僕たちの行方",
+      "artist": "高橋 瞳",
+      "has_synced": false,
+      "path": "select/pl_03_僕たちの行方_高橋_瞳.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "僕たちの行方",
+      "artist": "高橋 瞳",
+      "has_synced": false,
+      "path": "select/pl_04_僕たちの行方_高橋_瞳.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "僕たちの行方",
+      "artist": "高橋 瞳",
+      "has_synced": false,
+      "path": "select/pl_05_僕たちの行方_高橋_瞳.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "僕たちの行方",
+      "artist": "高橋 瞳",
+      "has_synced": false,
+      "path": "select/pl_06_僕たちの行方_高橋_瞳.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "僕たちの行方",
+      "artist": "高橋 瞳",
+      "has_synced": false,
+      "path": "select/pl_07_僕たちの行方_高橋_瞳.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "僕たちの行方",
+      "artist": "高橋 瞳",
+      "has_synced": false,
+      "path": "select/pl_08_僕たちの行方_高橋_瞳.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "僕たちの行方",
+      "artist": "高橋 瞳",
+      "has_synced": false,
+      "path": "select/pl_09_僕たちの行方_高橋_瞳.txt"
+    }
+  ]
+}
